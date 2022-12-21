@@ -70,5 +70,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("commit nuevo");
 }
 main();
